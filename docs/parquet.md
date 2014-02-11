@@ -9,6 +9,8 @@
 
 [Predicate Pushdown](https://github.com/JacobMetcalf/parquet-mr/commit/5f0f929e42c9a0a8cf3a7bf418a252aa7e4a1168)
 
+[Parquet Intoperability](http://www.cloudera.com/content/cloudera-content/cloudera-docs/Impala/latest/Installing-and-Using-Impala/ciiu_parquet.html)
+
 ## Contributing
 Some helpful links related to Spark-Parquet integration.
 
